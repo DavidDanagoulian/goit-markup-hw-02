@@ -44,7 +44,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  
+  color: #2e2f42;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -53,9 +53,6 @@ body {
   color: #4d5ae5;
   }
 
-  .text-sudio{
-    color: #2e2f42;
-  }
 
 .menu-link {
     font-weight: 500;
@@ -209,9 +206,10 @@ color: #434455;
 }
 
 .logo-footer{
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
@@ -220,17 +218,13 @@ color: #f4f4fd;
   color: #4d5ae5;
 }
 
-.logo-footer-white{
-  color: #f4f4fd;
-}
-
 .page-footer-text{
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
-
+ 
 
 /* =========== / Footer =========== */
 
