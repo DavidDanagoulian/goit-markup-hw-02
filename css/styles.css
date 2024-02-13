@@ -19,6 +19,7 @@ img {
 
 body {
   font-family: 'Roboto', sans-serif;
+  color: #434455;
   background-color: #fff;
 }
 
@@ -43,13 +44,18 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
+  
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
-.text-blue {
+.text-web {
   color: #4d5ae5;
-}
+  }
+
+  .text-sudio{
+    color: #2e2f42;
+  }
 
 .menu-link {
     font-weight: 500;
@@ -66,6 +72,11 @@ body {
 .menu-link:hover,
 .menu-link:focus {
   color: #404bbf;
+}
+
+.contacts-list{
+  font-style: normal;
+  line-height: 1.5;
 }
 
 .contacts-link {
@@ -136,7 +147,10 @@ color: #2e2f42;
     background-color: #f4f4fd; 
 }
 
-.team-list-title{
+.our-team-list-item{
+  background-color: #FFFFFF
+}
+ .team-list-title{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -192,6 +206,22 @@ color: #434455;
 /* =========== / Footer =========== */
 .page-footer{
     background-color:#2e2f42;
+}
+
+.logo-footer{
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #f4f4fd;
+}
+.logo-footer-blue{
+  color: #4d5ae5;
+}
+
+.logo-footer-white{
+  color: #f4f4fd;
 }
 
 .page-footer-text{
