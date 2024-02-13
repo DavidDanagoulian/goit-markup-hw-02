@@ -44,13 +44,13 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
-  color: #2e2f42;
+  color: #4d5ae5;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .text-web {
-  color: #4d5ae5;
+  color: #2e2f42;
   }
 
 
@@ -69,6 +69,10 @@ body {
 .menu-link:hover,
 .menu-link:focus {
   color: #404bbf;
+}
+
+.contacts{
+  font-style: normal
 }
 
 .contacts-list{
@@ -212,10 +216,10 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #f4f4fd;
+color: #4d5ae5;
 }
-.logo-footer-blue{
-  color: #4d5ae5;
+.logo-footer-white{
+  color: #f4f4fd;
 }
 
 .page-footer-text{
